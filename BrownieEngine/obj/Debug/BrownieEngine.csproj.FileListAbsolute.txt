@@ -1,0 +1,6 @@
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\DLLs\BrownieEngine.dll
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\DLLs\BrownieEngine.pdb
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\BrownieEngine\BrownieEngine\obj\Debug\BrownieEngine.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\BrownieEngine\BrownieEngine\obj\Debug\BrownieEngine.csproj.CopyComplete
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\BrownieEngine\BrownieEngine\obj\Debug\BrownieEngine.dll
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\BrownieEngine\BrownieEngine\obj\Debug\BrownieEngine.pdb
